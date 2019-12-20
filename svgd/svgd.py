@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import scipy as sp
-import scipy.patial as spsp
+import scipy.spatial as spsp
 
 from scipy.stats import multivariate_normal
 
